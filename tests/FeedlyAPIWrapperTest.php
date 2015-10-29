@@ -2,7 +2,7 @@
 
 require dirname(__FILE__) . "/../vendor/autoload.php";
 
-use feedly\feedly;
+use feedly\Feedly;
 
 class FeedlyAPIWrapperTest extends PHPUnit_Framework_TestCase
 {
