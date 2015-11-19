@@ -12,7 +12,7 @@
             "name": "Ronald Castillo",
             "email": "ronaldcastillo@gmail.com",
             "homepage": "https://github.com/ronaldcastillo"
-        },
+        }
     ],
     "require-dev": {
         "phpunit/phpunit": "4.3.*"
