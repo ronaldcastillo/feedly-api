@@ -1,5 +1,5 @@
 {
-    "name": "kbariotis/feedly-api",
+    "name": "ronaldcastillo/feedly-api",
     "description": "PHP wrapper around Feedly's REST API",
     "license": "MIT",
     "homepage": "https://github.com/stakisko/feedly-api",
@@ -8,7 +8,11 @@
             "name": "Kostas Bariotis",
             "email": "konmpar@gmail.com",
             "homepage": "http://kostasbariotis.com"
-        }
+        }, {
+            "name": "Ronald Castillo",
+            "email": "ronaldcastillo@gmail.com",
+            "homepage": "https://github.com/ronaldcastillo"
+        },
     ],
     "require-dev": {
         "phpunit/phpunit": "4.3.*"
