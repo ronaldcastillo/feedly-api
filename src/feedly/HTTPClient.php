@@ -125,7 +125,7 @@ class HTTPClient
 
         if ($httpStatus !== 200) {
             throw new \Exception("Something went wrong: " . $response[ 'errorMessage' ] . ' : ' .
-                                 $response[ 'errorCode' ]);
+                                 $response[ 'errorCode' ], $response[ 'errorCode' ]);
         }
 
         return $response;
